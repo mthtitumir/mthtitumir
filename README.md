@@ -5,10 +5,10 @@
 
 A highly dedicated and enthusiastic junior developer with a strong passion for coding and a commitment to continuous learning.
 
-Skills: REACT / JS / HTML / CSS / NODE JS / MONGO DB / EXPRESS JS
+Skills: NEXTJS / REACT / JS / HTML / CSS / NODE JS / MONGO DB / EXPRESS JS
 
 - 🔭 I’m currently working on React Js 
-- 🌱 I’m currently learning Next JS 
+- 🌱 I’m currently learning TypeScript 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about MERN Stack Web Development 
 
