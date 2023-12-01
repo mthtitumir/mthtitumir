@@ -1,14 +1,14 @@
-![I am Junior Web Developer](https://media.licdn.com/dms/image/D5616AQFkSxqtINaSNw/profile-displaybackgroundimage-shrink_350_1400/0/1687495094585?e=1692835200&v=beta&t=T9kCPTAYcjtHLjw3fRV8-VIoc1OMSaJqz4kHwNZ3PG8)
+![I am Full Stack (MERN) Web Developer](https://media.licdn.com/dms/image/D5616AQFkSxqtINaSNw/profile-displaybackgroundimage-shrink_350_1400/0/1687495094585?e=1692835200&v=beta&t=T9kCPTAYcjtHLjw3fRV8-VIoc1OMSaJqz4kHwNZ3PG8)
 ### Hi there 👋, my name is M . T. H. Titumir
-#### I am Junior Web Developer
+#### I am Full Stack (MERN) Web Developer
 
 
 A highly dedicated and enthusiastic junior developer with a strong passion for coding and a commitment to continuous learning.
 
-Skills: NEXTJS / REACT / JS / HTML / CSS / NODE JS / MONGO DB / EXPRESS JS
+Skills: NEXTJS / REACT / TYPESCRIPT / REDUX / JS / NODE JS / MONGO DB / MONGOOSE / EXPRESS JS / CSS /
 
 - 🔭 I’m currently working on React Js 
-- 🌱 I’m currently learning TypeScript 
+- 🌱 I’m currently learning Database ( noSQl) 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about MERN Stack Web Development 
 
