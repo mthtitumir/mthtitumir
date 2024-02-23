@@ -8,7 +8,7 @@ A highly dedicated and enthusiastic junior developer with a strong passion for c
 Skills: NEXTJS / REACT / TYPESCRIPT / REDUX / JS / NODE JS / MONGO DB / MONGOOSE / EXPRESS JS / CSS /
 
 - 🔭 I’m currently working on React Js 
-- 🌱 I’m currently learning Database ( noSQl) 
+- 🌱 I’m currently learning POSTGRESQl
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about MERN Stack Web Development 
 
