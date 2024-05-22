@@ -3,7 +3,7 @@
 
 A highly dedicated and enthusiastic junior developer with a strong passion for coding and a commitment to continuous learning.
 
-Skills: NEXTJS / REACT / TYPESCRIPT / REDUX / JS / NODE JS / MONGO DB / POSTGRESQL / MONGOOSE / EXPRESS JS / CSS /
+Skills: NEXTJS / REACT / TYPESCRIPT / REDUX / JS / NODE JS / EXPRESSJS / MONGODB / POSTGRESQL / MONGOOSE / PRISMA / CSS /
 
 - 🔭 I’m currently working on React Js 
 - 🌱 I’m currently learning Prisma
