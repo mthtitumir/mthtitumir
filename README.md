@@ -24,6 +24,7 @@ A dedicated fullstack developer with a strong emphasis on backend development. M
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mthtitumir)]
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mthtitumir&show_icons=true&theme=transparent)  
+![GitHub Streak](https://streak-stats.demolab.com?user=mthtitumir&theme=transparent)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mthtitumir)  
 
