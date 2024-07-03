@@ -7,70 +7,30 @@ A fullstack developer with a strong backend focus. Skilled in React.js, Next.js,
 ## 💻I Code With
 <br/>
 <p align="center">
-  <div style="background-color: #2d3748; padding: 16px; display: inline-flex; align-items: center; justify-content: center; border: 1px solid #0ea5e9; border-radius: 12px; margin: 5px;">
-    <img src="https://raw.githubusercontent.com/mthtitumir/mth-titumir-nextjs/main/src/assets/tech/c.png" width="50" height="50" />
-  </div>
-  <div style="background-color: #2d3748; padding: 16px; display: inline-flex; align-items: center; justify-content: center; border: 1px solid #0ea5e9; border-radius: 12px; margin: 5px;">
-    <img src="https://raw.githubusercontent.com/mthtitumir/mth-titumir-nextjs/main/src/assets/tech/cpp.png" width="50" height="50" />
-  </div>
-  <div style="background-color: #2d3748; padding: 16px; display: inline-flex; align-items: center; justify-content: center; border: 1px solid #0ea5e9; border-radius: 12px; margin: 5px;">
-    <img src="https://raw.githubusercontent.com/mthtitumir/mth-titumir-nextjs/main/src/assets/tech/js.svg" width="50" height="50" />
-  </div>
-  <div style="background-color: #2d3748; padding: 16px; display: inline-flex; align-items: center; justify-content: center; border: 1px solid #0ea5e9; border-radius: 12px; margin: 5px;">
-    <img src="https://raw.githubusercontent.com/mthtitumir/mth-titumir-nextjs/main/src/assets/tech/ts.svg" width="50" height="50" />
-  </div>
-  <div style="background-color: #2d3748; padding: 16px; display: inline-flex; align-items: center; justify-content: center; border: 1px solid #0ea5e9; border-radius: 12px; margin: 5px;">
-    <img src="https://raw.githubusercontent.com/mthtitumir/mth-titumir-nextjs/main/src/assets/tech/node.svg" width="50" height="50" />
-  </div>
-  <div style="background-color: #2d3748; padding: 16px; display: inline-flex; align-items: center; justify-content: center; border: 1px solid #0ea5e9; border-radius: 12px; margin: 5px;">
-    <img src="https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/icons/express.png" width="50" height="50" />
-  </div>
-  <div style="background-color: #2d3748; padding: 16px; display: inline-flex; align-items: center; justify-content: center; border: 1px solid #0ea5e9; border-radius: 12px; margin: 5px;">
-    <img src="https://raw.githubusercontent.com/mthtitumir/mth-titumir-nextjs/main/src/assets/tech/next.svg" width="50" height="50" />
-  </div>
+<img src="https://raw.githubusercontent.com/mthtitumir/mth-titumir-nextjs/main/src/assets/tech/c.png" width="50" height="50" style="margin: 0 10px"/>
+<img src="https://raw.githubusercontent.com/mthtitumir/mth-titumir-nextjs/main/src/assets/tech/cpp.png" width="50" height="50" style="margin: 0 10px"/>
+<img src="https://raw.githubusercontent.com/mthtitumir/mth-titumir-nextjs/main/src/assets/tech/js.svg" width="50" height="50" style="margin: 0 10px"/>
+<img src="https://raw.githubusercontent.com/mthtitumir/mth-titumir-nextjs/main/src/assets/tech/ts.svg" width="50" height="50" style="margin: 0 10px"/>
+<img src="https://raw.githubusercontent.com/mthtitumir/mth-titumir-nextjs/main/src/assets/tech/node.svg" width="50" height="50" style="margin: 0 10px"/>
+<img src="https://raw.githubusercontent.com/mir-hussain/mir-hussain/main/images/icons/express.png" width="50" height="50" style="margin: 0 10px"/>
+<img src="https://raw.githubusercontent.com/mthtitumir/mth-titumir-nextjs/main/src/assets/tech/next.svg" width="50" height="50" style="margin: 0 10px"/>
 </p>
 <p align="center">
-  <div style="background-color: #2d3748; padding: 16px; display: inline-flex; align-items: center; justify-content: center; border: 1px solid #0ea5e9; border-radius: 12px; margin: 5px;">
-    <img src="https://raw.githubusercontent.com/mthtitumir/mth-titumir-nextjs/main/src/assets/tech/react.svg" width="50" height="50" />
-  </div>
-  <div style="background-color: #2d3748; padding: 16px; display: inline-flex; align-items: center; justify-content: center; border: 1px solid #0ea5e9; border-radius: 12px; margin: 5px;">
-    <img src="https://raw.githubusercontent.com/mthtitumir/mth-titumir-nextjs/main/src/assets/tech/redux.svg" width="50" height="50" />
-  </div>
-  <div style="background-color: #2d3748; padding: 16px; display: inline-flex; align-items: center; justify-content: center; border: 1px solid #0ea5e9; border-radius: 12px; margin: 5px;">
-    <img src="https://raw.githubusercontent.com/mthtitumir/mth-titumir-nextjs/main/src/assets/tech/mui.svg" width="50" height="50" />
-  </div>
-  <div style="background-color: #2d3748; padding: 16px; display: inline-flex; align-items: center; justify-content: center; border: 1px solid #0ea5e9; border-radius: 12px; margin: 5px;">
-    <img src="https://raw.githubusercontent.com/mthtitumir/mth-titumir-nextjs/main/src/assets/tech/antd.svg" width="50" height="50" />
-  </div>
-  <div style="background-color: #2d3748; padding: 16px; display: inline-flex; align-items: center; justify-content: center; border: 1px solid #0ea5e9; border-radius: 12px; margin: 5px;">
-    <img src="https://raw.githubusercontent.com/mthtitumir/mth-titumir-nextjs/main/src/assets/tech/tailwind.svg" width="50" height="50" />
-  </div>
-  <div style="background-color: #2d3748; padding: 16px; display: inline-flex; align-items: center; justify-content: center; border: 1px solid #0ea5e9; border-radius: 12px; margin: 5px;">
-    <img src="https://raw.githubusercontent.com/mthtitumir/mth-titumir-nextjs/main/src/assets/tech/mongodb.svg" width="50" height="50" />
-  </div>
-  <div style="background-color: #2d3748; padding: 16px; display: inline-flex; align-items: center; justify-content: center; border: 1px solid #0ea5e9; border-radius: 12px; margin: 5px;">
-    <img src="https://raw.githubusercontent.com/mthtitumir/mth-titumir-nextjs/main/src/assets/tech/mongoose.svg" width="50" height="50" />
-  </div>
+<img src="https://raw.githubusercontent.com/mthtitumir/mth-titumir-nextjs/main/src/assets/tech/react.svg" width="50" height="50" style="margin: 0 10px"/>
+<img src="https://raw.githubusercontent.com/mthtitumir/mth-titumir-nextjs/main/src/assets/tech/redux.svg" width="50" height="50" style="margin: 0 10px"/>
+<img src="https://raw.githubusercontent.com/mthtitumir/mth-titumir-nextjs/main/src/assets/tech/mui.svg" width="50" height="50" style="margin: 0 10px"/>
+<img src="https://raw.githubusercontent.com/mthtitumir/mth-titumir-nextjs/main/src/assets/tech/antd.svg" width="50" height="50" style="margin: 0 10px"/>
+<img src="https://raw.githubusercontent.com/mthtitumir/mth-titumir-nextjs/main/src/assets/tech/tailwind.svg" width="50" height="50" style="margin: 0 10px"/>
+<img src="https://raw.githubusercontent.com/mthtitumir/mth-titumir-nextjs/main/src/assets/tech/mongodb.svg" width="50" height="50" style="margin: 0 10px"/>
+<img src="https://raw.githubusercontent.com/mthtitumir/mth-titumir-nextjs/main/src/assets/tech/mongoose.svg" width="50" height="50" style="margin: 0 10px"/>
 </p>
 <p align="center">
-  <div style="background-color: #2d3748; padding: 16px; display: inline-flex; align-items: center; justify-content: center; border: 1px solid #0ea5e9; border-radius: 12px; margin: 5px;">
-    <img src="https://raw.githubusercontent.com/mthtitumir/mth-titumir-nextjs/main/src/assets/tech/postgres.svg" width="50" height="50" />
-  </div>
-  <div style="background-color: #2d3748; padding: 16px; display: inline-flex; align-items: center; justify-content: center; border: 1px solid #0ea5e9; border-radius: 12px; margin: 5px;">
-    <img src="https://raw.githubusercontent.com/mthtitumir/mth-titumir-nextjs/main/src/assets/tech/prisma.svg" width="50" height="50" />
-  </div>
-  <div style="background-color: #2d3748; padding: 16px; display: inline-flex; align-items: center; justify-content: center; border: 1px solid #0ea5e9; border-radius: 12px; margin: 5px;">
-    <img src="https://raw.githubusercontent.com/mthtitumir/mth-titumir-nextjs/main/src/assets/tech/vscode.svg" width="50" height="50" />
-  </div>
-  <div style="background-color: #2d3748; padding: 16px; display: inline-flex; align-items: center; justify-content: center; border: 1px solid #0ea5e9; border-radius: 12px; margin: 5px;">
-    <img src="https://raw.githubusercontent.com/mthtitumir/mth-titumir-nextjs/main/src/assets/tech/vercel.svg" width="50" height="50" />
-  </div>
-  <div style="background-color: #2d3748; padding: 16px; display: inline-flex; align-items: center; justify-content: center; border: 1px solid #0ea5e9; border-radius: 12px; margin: 5px;">
-    <img src="https://raw.githubusercontent.com/mthtitumir/mth-titumir-nextjs/main/src/assets/tech/figma.svg" width="50" height="50" />
-  </div>
-  <div style="background-color: #2d3748; padding: 16px; display: inline-flex; align-items: center; justify-content: center; border: 1px solid #0ea5e9; border-radius: 12px; margin: 5px;">
-    <img src="https://raw.githubusercontent.com/mthtitumir/mth-titumir-nextjs/main/src/assets/tech/github.svg" width="50" height="50" />
-  </div>
+<img src="https://raw.githubusercontent.com/mthtitumir/mth-titumir-nextjs/main/src/assets/tech/postgres.svg" width="50" height="50" style="margin: 0 10px"/>
+<img src="https://raw.githubusercontent.com/mthtitumir/mth-titumir-nextjs/main/src/assets/tech/prisma.svg" width="50" height="50" style="margin: 0 10px"/>
+<img src="https://raw.githubusercontent.com/mthtitumir/mth-titumir-nextjs/main/src/assets/tech/vscode.svg" width="50" height="50" style="margin: 0 10px"/>
+<img src="https://raw.githubusercontent.com/mthtitumir/mth-titumir-nextjs/main/src/assets/tech/vercel.svg" width="50" height="50" style="margin: 0 10px"/>
+<img src="https://raw.githubusercontent.com/mthtitumir/mth-titumir-nextjs/main/src/assets/tech/figma.svg" width="50" height="50" style="margin: 0 10px"/>
+<img src="https://raw.githubusercontent.com/mthtitumir/mth-titumir-nextjs/main/src/assets/tech/github.svg" width="50" height="50" style="margin: 0 10px"/>
 </p>
 
 
