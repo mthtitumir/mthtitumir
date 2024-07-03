@@ -8,10 +8,10 @@ A dedicated fullstack developer with a strong emphasis on backend development. M
 ![Titumirs's GitHub stats](https://github-readme-stats.vercel.app/api?username=mthtitumir&show_icons=true&theme=algolia)
 ![GitHub Streak](https://streak-stats.demolab.com?user=mthtitumir&theme=algolia)
 
-- 🔭 I’m currently working on React Js 
-- 🌱 I’m currently learning Prisma
+- 🔭 I’m currently working on NextJs 
+- 🌱 I’m currently learning Jest
 - 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about MERN Stack Web Development 
+- 💬 Ask me about Back-End Development 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mthtitumir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/mthtitumir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mthtitumir/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mth_titumir)  
