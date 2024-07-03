@@ -9,7 +9,7 @@ A dedicated fullstack developer with a strong emphasis on backend development. M
 
 <br />
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=mthtitumir&show_icons=true&theme=algolia&hide_border=true&background=none" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=mthtitumir&show_icons=true&theme=algolia&hide_border=true&background=0D1117" />
 </p>
 
 ## Current Streak
